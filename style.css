@@ -59,3 +59,12 @@ body {
 .boxes.big .box {
   transform: rotateZ(360deg);
 }  
+
+.boxes.big {
+  width: 600px;
+  height: 600px;
+}
+  
+.boxes.big .box {
+  transform: rotateZ(360deg);
+}  
